@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+translate.yandex.net	TRUE	/	FALSE	1999999999	_GdCk	2pk000s976wb
+.yandex.net	TRUE	/	FALSE	1999999999	_yasc	lWtlymQhZAvMEVel2L2D9MzgiyVQwisCvDGfGTusIUHWdVFMhALOlNldKiTqNtl3LA==
+
